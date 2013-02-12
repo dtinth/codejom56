@@ -82,7 +82,7 @@ Source Code
         <td>elements
         <td>05:21
     <tr>
-        <td rowspan="15">final<br>(100 minutes)
+        <td rowspan="18">final<br>(100 minutes)
         <td>shoryuken.rb
         <td>shoryuken
         <td>01:51
