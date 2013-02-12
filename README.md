@@ -10,8 +10,8 @@ __Language__: Ruby with [my library tubtim](https://github.com/dtinth/tubtim)
 
 __Members__:
 
- * Thai Pangsakulyanont ([@dtinth](https://github.com/dtinth)
- * Thiwat Rongsirigul ([@Iaolia456](https://github.com/Iaolia456)
+ * Thai Pangsakulyanont ([@dtinth](https://github.com/dtinth))
+ * Thiwat Rongsirigul ([@Iaolia456](https://github.com/Iaolia456))
  * Rungroj Maipradit
 
 
